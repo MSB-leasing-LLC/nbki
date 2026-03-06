@@ -1,5 +1,5 @@
 {
-  "name": "msb/nbki",
+  "name": "msb-leasing-llc/nbki",
   "description": "Обмен данными с НБКИ",
   "type": "yii2-extension",
   "keywords": [
